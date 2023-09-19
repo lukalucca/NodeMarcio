@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: cornsilk;
+    font-family: 'One Piece', sans-serif;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+input{
+    margin: .5rem;
+}
+
+button{
+   align-self: center;
+}
